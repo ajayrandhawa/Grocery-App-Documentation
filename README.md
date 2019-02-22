@@ -11,3 +11,15 @@ Cross-Platform Android &amp; iOS Ionic 3 App has great UI. Grocery App has a Sec
 
 <img src="1.JPG" />
 
+3. Open App folder in any Terminal (Cmd, Gitbash, Powershell) .
+
+or
+
+Open CMD and Navigate to App Folder.
+
+4. Type 'npm install' & hit Enter.
+
+5. Wait Until Node Module Install . It Take 5-10 Mintue....
+
+
+
