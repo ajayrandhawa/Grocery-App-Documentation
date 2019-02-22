@@ -16,7 +16,7 @@ Cross-Platform Android &amp; iOS Ionic 3 App has great UI. Grocery App has a Sec
 4. Install Npm Module
 
 ```
-npm install or Npm i
+npm install
 ```
 
 5. Wait Until Node Module Install . It Take 5-10 Mintue....
@@ -28,6 +28,8 @@ npm install or Npm i
 ```
 npm install @ionic/app-scripts@latest --save-dev
 ```
+
+<img src="4.jpg" />
 
 7. install Ionic Globally (for Ionic Serve)
 
