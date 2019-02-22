@@ -11,15 +11,40 @@ Cross-Platform Android &amp; iOS Ionic 3 App has great UI. Grocery App has a Sec
 
 <img src="1.JPG" />
 
-3. Open App folder in any Terminal (Cmd, Gitbash, Powershell) .
+3. Open App folder in any Terminal (Cmd, Gitbash, Powershell) .or Open CMD and Navigate to App Folder.
 
-or
+4. Install Npm Module
 
-Open CMD and Navigate to App Folder.
-
-4. Type 'npm install' & hit Enter.
+```
+npm install or Npm i
+```
 
 5. Wait Until Node Module Install . It Take 5-10 Mintue....
 
+<img src="2.jpg" />
 
+6. Install Ionic App Scripts 
 
+```
+npm install @ionic/app-scripts@latest --save-dev
+```
+
+7. install Ionic Globally (for Ionic Serve)
+
+```
+npm install -g ionic@latest
+```
+
+8.  install Ionic on Project Folder
+
+```
+npm install ionic@latest
+```
+
+9. After all that run ionic Project.
+
+```
+ionic serve
+```
+
+10. Next Step Connect App to Server.
