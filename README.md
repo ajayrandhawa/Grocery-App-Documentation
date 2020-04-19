@@ -119,5 +119,43 @@ https://medium.com/@hubfly/how-to-build-ionic-app-in-android-step-by-step-31068d
 1. Go To www/assets/i18n for app
 2. Replace String 'appname' to Your Name
 
+## Change Currency
+
+1. Go To src/pages for app
+2. Replace String 'appname' to Your Name
+3. Find Currency Symbol and Simple Replace With Your Currency Symbol
+4. Replace in Every Page.
+
+
+## Change Splash And App Icon
+
+1. Replace Your Splash.png and icon.png with same size.
+2  Navigate To App Folder and Type 'Ionic cordova resources' in Cmd or Terminal
+3. Again Build And Check.
+
+### Always use HTTPS for Production for Avoiding Error.
+
+- Api endpoint Must Be Https
+
+Useful Links : https://ionicframework.com/docs/v3/
+
+
+Contact For Support & Help ?
+
+Ajay Randhawa
+info@scurite.com
+Skype: info@scurite.com
+Whatsapp : +91 7696355852
+
+We Available for Free and Paid Tech Support.
+
+Script is Protected with DMCA | Dont Share & Download From Null Websites Otherise Your Complete Website Take Down Copyright infringement.
+
+
+
+
+
+
+
 
 
