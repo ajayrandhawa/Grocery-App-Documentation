@@ -142,14 +142,14 @@ https://medium.com/@hubfly/how-to-build-ionic-app-in-android-step-by-step-31068d
 
 ## Contact For Support & Help ?
 
-Ajay Randhawa
-info@scurite.com
-Skype: info@scurite.com
-Whatsapp : +91 7696355852
+-Ajay Randhawa
+-info@scurite.com
+-Skype: info@scurite.com
+-Whatsapp : +91 7696355852
 
 We Available for Free and Paid Tech Support.
 
-# Script is Protected with DMCA | Dont Share & Download From Null Websites Otherise Your Complete Website Take Down Copyright infringement.
+# Script is Protected with DMCA | Dont Share & Download From Others Websites Otherise Your Complete Website Take Down Copyright infringement.
 
 
 
