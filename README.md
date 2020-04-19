@@ -130,7 +130,7 @@ https://medium.com/@hubfly/how-to-build-ionic-app-in-android-step-by-step-31068d
 ## Change Splash And App Icon
 
 1. Replace Your Splash.png and icon.png with same size.
-2  Navigate To App Folder and Type 'Ionic cordova resources' in Cmd or Terminal
+2. Navigate To App Folder and Type 'Ionic cordova resources' in Cmd or Terminal
 3. Again Build And Check.
 
 ### Always use HTTPS for Production for Avoiding Error.
