@@ -1,4 +1,4 @@
-# Grocery-App-Documentation V2
+# Grocery-App-Documentation V5
 Grocery App an online grocery shop CMS. Grocery smart grocery shopping List is a free app that improves the quality of your grocery shopping by making it easier, faster, and most importantly smarter. It is all you would want out of a shopping list and more.  
 
 ## Required Software
@@ -30,6 +30,12 @@ Grocery App an online grocery shop CMS. Grocery smart grocery shopping List is a
 8. Goto Htdocs app->Config.php
 9. Add Database Credential Which You Created Previous
 10. Save
+
+## Api Connection (Ionic 5)
+
+src/enviornments
+
+Add Your Api Link in There
 
 ## Setup Client APP 
 
@@ -108,6 +114,14 @@ https://medium.com/@hubfly/how-to-build-ionic-app-in-android-step-by-step-31068d
 11. Just Build and Run.
 12. App Open In Iphone Simulator.
 
+## For Capacitor Integration (For Android & iOS Build)
+
+1. ionic build
+2. npx cap init
+3. npx cap add ios OR npx cap add android
+4 npx cap copy --> For Sync Project
+
+More Help ->> https://capacitorjs.com/docs/getting-started/with-ionic
 
 ## Where to Change Logo
 
